@@ -1,0 +1,22 @@
+[
+    {
+        "p_relativeURL": "imsonukumar/Manufacturing-Quality-Data/refs/heads/main/Raw/PTI.csv",
+        "p_folderName": "PTI",
+        "p_fileName": "PTI.parquet"
+    },
+    {
+        "p_relativeURL": "imsonukumar/Manufacturing-Quality-Data/refs/heads/main/Raw/VIPR.csv",
+        "p_folderName": "VIPR",
+        "p_fileName": "VIPR.parquet"
+    },
+    {
+        "p_relativeURL": "imsonukumar/Manufacturing-Quality-Data/refs/heads/main/Raw/Z.csv",
+        "p_folderName": "Z",
+        "p_fileName": "Z.parquet"
+    },
+    {
+        "p_relativeURL": "imsonukumar/Manufacturing-Quality-Data/refs/heads/main/Raw/ZPTI.csv",
+        "p_folderName": "ZPTI",
+        "p_fileName": "ZPTI.parquet"
+    }
+]
